@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/basht
 "This School is so cool!"
+=======
+#!/bin/bash
+Best School
+>>>>>>> update_script
